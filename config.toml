@@ -15,8 +15,8 @@ theme = "hugo-minimalist-theme"
     site_description = "Another Awesome Website by Greg Doig."
     location = "Earth"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "img/hugo-logo.png"
+    header_background = "img/coffee.jpg"
     header_title = "Website Simply"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
